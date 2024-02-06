@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.triangle{
+    height: 0px;
+    width: 0px;
+    border-bottom: 300px solid red;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+   
+    
+}
